@@ -1,0 +1,5 @@
+cartopy
+ipyleaflet
+matplotlib
+Pillow
+numpy
